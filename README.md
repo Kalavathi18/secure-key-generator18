@@ -7,6 +7,8 @@ The Random Password Generator is a web-based application that allows users to ge
 The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Java Servlet for generating passwords.
 
 ## Screenshot
+![image alt](https://github.com/Kalavathi18/secure-key-generator18/blob/610685a1d0fe69ea0b47da8258760b9d437bd048/Screenshot%20(166).png)
+
 
 ## Features
 
