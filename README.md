@@ -8,6 +8,8 @@ The front-end is built with HTML, CSS, and JavaScript, while the back-end utiliz
 
 ## Screenshot
 ![image alt](https://github.com/Kalavathi18/secure-key-generator18/blob/610685a1d0fe69ea0b47da8258760b9d437bd048/Screenshot%20(166).png)
+![image alt](https://github.com/Kalavathi18/secure-key-generator18/blob/27a0f0c3586ec991422330fe8825e030ce9b11d7/Screenshot%20(167).png)
+![image alt](https://github.com/Kalavathi18/secure-key-generator18/blob/27a0f0c3586ec991422330fe8825e030ce9b11d7/Screenshot%20(168).png)
 
 
 ## Features
